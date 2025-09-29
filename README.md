@@ -10,7 +10,7 @@ The main goal was to evaluate whether **fine-tuning techniques** can improve the
 
 ---
 
-**What's Inside**
+## **What's Inside**
 
 * **Introduction to Mamba**: key concepts and differences from transformers
 * **Tools and Frameworks**
@@ -27,7 +27,7 @@ The main goal was to evaluate whether **fine-tuning techniques** can improve the
 
 ---
 
-**Why Mamba?**
+## **Why Mamba?**
 
 Unlike transformers, Mamba leverages **State Space Models**, enabling:
 
@@ -39,7 +39,7 @@ This project focuses on **Mamba**, although a newer version -Mamba 2- was releas
 
 ---
 
-**Notes**
+## **Notes**
 
 The notebook also serves as the **final written report** for the course, combining both theoretical explanations and implementation details.
 All references and citations are included directly in the notebook.
